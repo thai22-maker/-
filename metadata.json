@@ -1,0 +1,7 @@
+{
+  "name": "MistakeMaster - 错题克星",
+  "description": "A fun, cartoon-styled app for middle school students to upload incorrect exam questions, get friendly analysis, and practice with similar AI-generated problems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
